@@ -1,4 +1,4 @@
-# data-science-guidelines
+# Data Science Guidelines
 <p>General data science repository architecture guidelines</p>
 <p>Data science projects are hosted in individual repositories, each containing:</p>
 	<ul>
